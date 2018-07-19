@@ -1,0 +1,43 @@
+
+
+.card-display
+{
+    display:flex;
+    justify-content: center;
+}
+
+.card
+{
+    margin-top: 50px;
+    padding:50px;
+    
+}
+
+.input-field
+{
+    
+    width: 150px; 
+    border-color: black;
+    border-radius: 5px;  
+   margin : 20px 5px 20px 5px;
+}
+
+.form-control
+{
+  
+    border-color: gold;
+    border-radius: 5px;  
+    display: flex;
+
+}
+
+.btn
+{
+     display: flex;
+     margin : 20px 5px 20px 5px;
+     align:center;
+}
+
+
+
+
